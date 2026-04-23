@@ -92,7 +92,7 @@ streamlit run ui/app.py
 A demo video is available at:
 
 ```text
-sample-data/demo-video.mp4
+sample-data/demo-video/ai-catelog-processor.mp4
 ```
 
 This video shows:
