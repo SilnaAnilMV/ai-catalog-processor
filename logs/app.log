@@ -1,0 +1,70 @@
+2026-04-22 22:03:47,092 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-22 22:03:47,095 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-22 22:03:47,097 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-22 22:03:47,099 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-22 22:03:49,627 - INFO - catalog_processor - Processed SKU001
+2026-04-23 11:36:38,173 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-23 11:36:38,175 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-23 11:36:38,176 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-23 11:36:38,176 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-23 11:36:40,935 - INFO - catalog_processor - Processed SKU001
+2026-04-23 11:38:03,069 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-23 11:38:03,069 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-23 11:38:03,070 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-23 11:38:03,070 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-23 11:38:05,584 - INFO - catalog_processor - Processed SKU001
+2026-04-23 11:41:10,930 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-23 11:41:10,931 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-23 11:41:10,931 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-23 11:41:10,931 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-23 11:41:13,158 - INFO - catalog_processor - Processed SKU001
+2026-04-23 11:43:16,679 - WARNING - catalog_processor - No image for SKU: SKU001
+2026-04-23 11:43:16,679 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-23 11:43:16,680 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-23 11:43:16,681 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-23 11:43:16,683 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-23 11:43:56,665 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-23 11:43:56,666 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-23 11:43:56,667 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-23 11:43:56,667 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-23 11:43:58,695 - INFO - catalog_processor - Processed SKU001
+2026-04-23 11:48:28,071 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-23 11:48:28,071 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-23 11:48:28,071 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-23 11:48:28,071 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-23 11:48:30,514 - INFO - catalog_processor - Processed SKU001
+2026-04-23 11:56:41,469 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-23 11:56:41,472 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-23 11:56:41,472 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-23 11:56:41,472 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-23 11:56:43,677 - INFO - catalog_processor - Processed SKU001
+2026-04-23 12:00:32,554 - WARNING - catalog_processor - No image for SKU: SKU002
+2026-04-23 12:00:32,555 - WARNING - catalog_processor - No image for SKU: SKU003
+2026-04-23 12:00:32,555 - WARNING - catalog_processor - No image for SKU: SKU004
+2026-04-23 12:00:32,556 - WARNING - catalog_processor - No image for SKU: SKU005
+2026-04-23 12:00:35,027 - INFO - catalog_processor - Processed SKU001
+2026-04-23 12:09:28,338 - INFO - catalog_processor - Processed SKU003
+2026-04-23 12:09:28,397 - INFO - catalog_processor - Processed SKU002
+2026-04-23 12:09:28,732 - INFO - catalog_processor - Processed SKU004
+2026-04-23 12:09:29,519 - INFO - catalog_processor - Processed SKU005
+2026-04-23 12:09:29,576 - INFO - catalog_processor - Processed SKU001
+2026-04-23 12:10:42,169 - INFO - catalog_processor - Processed SKU002
+2026-04-23 12:10:42,169 - INFO - catalog_processor - Processed SKU005
+2026-04-23 12:10:42,301 - INFO - catalog_processor - Processed SKU003
+2026-04-23 12:10:43,431 - INFO - catalog_processor - Processed SKU004
+2026-04-23 12:10:43,441 - INFO - catalog_processor - Processed SKU001
+2026-04-23 12:14:11,091 - INFO - catalog_processor - Processed SKU003
+2026-04-23 12:14:11,091 - INFO - catalog_processor - Processed SKU005
+2026-04-23 12:14:11,216 - INFO - catalog_processor - Processed SKU002
+2026-04-23 12:14:11,249 - INFO - catalog_processor - Processed SKU004
+2026-04-23 12:14:11,260 - INFO - catalog_processor - Processed SKU001
+2026-04-23 12:17:42,531 - INFO - catalog_processor - Processed SKU005
+2026-04-23 12:17:42,717 - INFO - catalog_processor - Processed SKU003
+2026-04-23 12:17:42,765 - INFO - catalog_processor - Processed SKU002
+2026-04-23 12:17:43,712 - INFO - catalog_processor - Processed SKU001
+2026-04-23 12:17:43,827 - INFO - catalog_processor - Processed SKU004
+2026-04-23 12:18:48,515 - INFO - catalog_processor - Processed SKU001
+2026-04-23 12:18:48,722 - INFO - catalog_processor - Processed SKU003
+2026-04-23 12:18:48,724 - INFO - catalog_processor - Processed SKU002
+2026-04-23 12:18:48,726 - INFO - catalog_processor - Processed SKU005
+2026-04-23 12:18:48,832 - INFO - catalog_processor - Processed SKU004
